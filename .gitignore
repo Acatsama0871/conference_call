@@ -131,6 +131,7 @@ dmypy.json
 # ignore data
 raw/
 processed/
+result/
 
 # other
 .vscode/
