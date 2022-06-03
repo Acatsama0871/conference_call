@@ -128,10 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# ignore data
-raw/
-processed/
-result/
-
 # other
 .vscode/
