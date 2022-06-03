@@ -1,0 +1,3 @@
+1. Week 1: all results are from kieras.xlsx
+2. Week 2: results are sampled from kieras_predict.csv (sent Michael & Nina wrong file, but two files have no overlapping)
+3. Week 3: sent Michael and Nina files from last week(switch)
